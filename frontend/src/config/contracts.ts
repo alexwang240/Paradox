@@ -1,5 +1,5 @@
 // Zama24Game contract deployed on Sepolia
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0x6d28d7BA60d67d0dc8D12C3B04b9ddAE5255e5F5';
 
 // ABI copied from artifacts/contracts/Zama24Game.sol/Zama24Game.json
 export const CONTRACT_ABI = [
